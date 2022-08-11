@@ -7,5 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return sqrt(a) 
+    x = sqrt(a)
+    return x 
 print(main(9))
